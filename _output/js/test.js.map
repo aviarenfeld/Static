@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":["foo","console","log"],"mappings":";;AAAA,IAAMA,MAAM,SAANA,GAAM;AAAA,SAAM,gBAAN;AAAA,CAAZ;AACAC,QAAQC,GAAR,CAAYF,KAAZ","file":"test.js","sourcesContent":["const foo = () => 'Hello world!!!';\nconsole.log(foo());\n"]}
