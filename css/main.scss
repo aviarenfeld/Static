@@ -41,7 +41,6 @@ body {
     font-size: 20px;
     display: flex;
     flex-direction: column;
-    //padding: 20px;
     text-align: center;
     height: 70px;
     @media screen and (min-width: 768px) {
@@ -49,7 +48,6 @@ body {
       justify-content: center;
     }
     a {
-      //border-bottom: 1px solid black;
       text-decoration: none;
       color: black;
       @media screen and (min-width: 768px) {
@@ -76,7 +74,6 @@ body {
     font-size: 20px;
     display: flex;
     flex-direction: column;
-    //padding: 20px;
     text-align: center;
     a {
       border-bottom: 1px solid black;
@@ -144,8 +141,6 @@ body {
 
 .footer-a {
   margin: 40px 0px 40px 0px;
-  //background: teal;
-  //border-top: 1px solid black;
   border-bottom: 1px solid black;
   .image-wrapper {
     display: flex;
@@ -174,8 +169,6 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 20px;
-    //flex-direction: column;
-    //text-align: center;
     @media screen and (min-width: 768px) {
       flex-direction: row;
     }
